@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BufferScroll",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GitGutter",
+		"JSLint",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Zeal"
+	]
+}
